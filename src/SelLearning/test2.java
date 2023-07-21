@@ -11,7 +11,10 @@ public class test2 {
         // Instantiate a ChromeDriver class.
         WebDriver driver = new ChromeDriver();
         driver.get("https://infornexus-rctp.qa.gtnexus.com/");
-        System.out.println("Execution completed");
+        System.out.println("Execution completed1");
+        System.out.println("Execution completed2");
+        System.out.println("Execution completed2");
+        System.out.println("Execution completed5");
         driver.quit();
         
 
